@@ -4,4 +4,9 @@ Buat Tempat produk/Pasang sekarang
 
 **Link-Pasang-Produk**
 'pasang Jualan Anda Di sini. Tekan link di Bawah Untuk Menambahkan Produk Anda'
+
+https://github.com/toko-online/Buat-Sekarang/wiki
+
+**Kontak-Aplikasi
+
 https://github.com/toko-online/Buat-Sekarang.wiki.git
